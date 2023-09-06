@@ -1,0 +1,4 @@
+﻿F:\bianceng1\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(send.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  mclient.cpp
+C:\Users\Administrator\Desktop\VS-test\send\mclient.cpp(14,22): warning C4018: “<”: 有符号/无符号不匹配
+  send.vcxproj -> C:\Users\Administrator\Desktop\VS-test\4\x64\Debug\client.exe

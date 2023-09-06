@@ -1,0 +1,14 @@
+﻿F:\bianceng1\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(receive.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  cl_one_room.cpp
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(32,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(35,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(42,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(48,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(54,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(65,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(74,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(80,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(88,48): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(90,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\VS-test\receive\cl_one_room.cpp(92,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  receive.vcxproj -> C:\Users\Administrator\Desktop\VS-test\4\x64\Debug\server.exe
